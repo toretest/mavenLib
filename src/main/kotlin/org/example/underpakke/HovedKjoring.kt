@@ -1,6 +1,9 @@
+@file:DependsOn("com.squareup:kotlinpoet:1.10.2")
+
 package org.example.underpakke
 
 import com.squareup.kotlinpoet.*
+import kotlin.script.experimental.dependencies.DependsOn
 
 class HovedKjoring {
 

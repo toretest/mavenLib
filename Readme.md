@@ -8,3 +8,6 @@ https://javalibs.com/plugin/org.jetbrains.kotlin/kotlin-maven-plugin
 https://medium.com/@yetanothersoftwareengineer/maven-lifecycle-phases-plugins-and-goals-25d8e33fa22
 
 https://github.com/Kotlin/kotlin-script-examples/blob/master/jvm/main-kts/MainKts.md
+
+# vitkig
+https://youtrack.jetbrains.com/issue/KT-11839

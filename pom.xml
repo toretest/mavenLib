@@ -72,6 +72,9 @@
                         <goals>
                             <goal>script</goal>
                         </goals>
+                        <configuration>
+                            <scriptFile>src/main/kotlin/org/example/kjorHovedkjoring.kts</scriptFile>
+                        </configuration>
                     </execution>
                     <execution>
                         <id>compile</id>

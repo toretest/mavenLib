@@ -1,3 +1,5 @@
+
+
 import org.example.underpakke.HovedKjoring
 
 /**
@@ -8,6 +10,6 @@ import org.example.underpakke.HovedKjoring
 
 //println("Hello")
 //A.runMe()
-println("*******************Genrate kode:")
-HovedKjoring().kjorHoved()
+println("*******************Genrate before")
+val a = HovedKjoring()  //.kjorHoved()
 
