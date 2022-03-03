@@ -67,6 +67,13 @@
                 <version>${kotlin.version}</version>
                 <executions>
                     <execution>
+                        <id>before-compile</id>
+                        <phase>generate-sources</phase>
+                        <goals>
+                            <goal>script</goal>
+                        </goals>
+                    </execution>
+                    <execution>
                         <id>compile</id>
                         <phase>compile</phase>
                         <goals>

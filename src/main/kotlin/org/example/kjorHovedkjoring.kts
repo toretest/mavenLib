@@ -1,5 +1,3 @@
-import com.squareup.kotlinpoet.*
-import org.example.A
 import org.example.underpakke.HovedKjoring
 
 /**

@@ -1,8 +1,8 @@
 package org.example
 
-fun main(args: Array<String>) {
-A.runMe()
-}
+//fun main(args: Array<String>) {
+//A.runMe()
+//}
 
 class A {
     companion object {
